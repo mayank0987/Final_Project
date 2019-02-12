@@ -14,7 +14,6 @@
 
 </head>
 <body>
-
 <div style="bg-color:red">
 <div class="container">
     <nav class="navbar navbar-inverse">
