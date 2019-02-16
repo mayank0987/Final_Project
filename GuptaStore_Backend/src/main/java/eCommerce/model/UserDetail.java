@@ -9,6 +9,14 @@ import javax.persistence.Table;
 
 public class UserDetail 
 {
+	public String getEmail() {
+		return email;
+	}
+
+	public void setEmail(String email) {
+		this.email = email;
+	}
+
 	@Id
     
 	String userName;
@@ -17,7 +25,7 @@ public class UserDetail
 	boolean enabled;
 	String customerName;
 	String customerAddr;
-	
+	String email;
 	
 	public String getUserName() 
 	{
