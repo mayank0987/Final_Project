@@ -10,9 +10,8 @@
 </head>
 <body>
 <center><h2>About Us</h2></center>
-<p>We are a UX research and consulting firm trusted by leading organizations world-wide to provide reliable guidance on user experience.</p>
-<p>Founded by Pioneers of User Experience
-Our founders, Jakob Nielsen and Don Norman, are recognized around the world for their leadership in defining the field of UX. Together, they founded Nielsen Norman Group, an elite firm dedicated to improving the everyday experience of using technology.</p>
+<center><p>We are a UX research and consulting firm trusted by leading organizations world-wide to provide reliable guidance on user experience.</p></center>
+<center><p>Founded by Pioneers of User Experience Our founders, Jakob Nielsen and Don Norman, are recognized around the world for their leadership in defining the field of UX. Together, they founded Nielsen Norman Group, an elite firm dedicated to improving the everyday experience of using technology.</p></center>
 <h3>
 Our Approach
 Research-Based

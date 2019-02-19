@@ -37,5 +37,5 @@
      </div>
     
 </form>
-
+	<center>dont' have an Account?<a href ="<c:url value='/register'/>">Register</a></center> 
   

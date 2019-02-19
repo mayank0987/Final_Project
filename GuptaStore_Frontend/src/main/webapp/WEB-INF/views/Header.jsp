@@ -27,7 +27,7 @@
            <ul class="nav navbar-nav"> 
              <li> <a href="<c:url value="/index" />"> HOME </a></li>
              <li> <a href="<c:url value="/login" />"> LOGIN  </a></li>
-             <li> <a href="<c:url value="/register" />"> REGISTER </a></li>
+            
              <li> <a href="<c:url value="/aboutus" />"> ABOUT US </a></li>
              <li> <a href="<c:url value="/contactus" />"> Contact US </a></li>
              
